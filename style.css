@@ -6,6 +6,7 @@
 body{
   background-color: #1d1f1e;
   background-image: url(./coffee-cup-svgrepo-com.svg);
+  background-color: #ffffff;
   background-position: center;
   background-repeat: no-repeat;
   color: #d4af37;
@@ -24,7 +25,7 @@ header h1{
   text-transform: uppercase
 }
 header h1 span{
-  Color: black
+  Color: #49251f
 }
 section, h2{
   width:400px;

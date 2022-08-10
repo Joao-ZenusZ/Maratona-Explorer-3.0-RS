@@ -4,28 +4,26 @@
   list-style: none;
 }
 body{
-  background-color: #0b0404;
-  background-image: url(./coffee-cup-svgrepo-com.svg);
-  background-position: 490px;
-  background-repeat: no-repeat;
-  color: #d4af37;
+  background-color: #4f3f35;
+  color: #e1d3ca;
 }
 header{
   text-align: center; 
-  background-color: #323232;
+  background-color: #000000;
   width: 400px;
   align: center;
   padding: 6px;
   margin: auto;
   margin-bottom: 20px;
   margin-top: 50px;
+  color:#e1d3ca
 }  
 header h1{
   margin-bottom: 2px;
   text-transform: uppercase
 }
 header h1 span{
-  Color: #251310
+  Color: #866a56
 }
 section, h2{
   width:400px;
@@ -34,10 +32,11 @@ section, h2{
 }
 ul li{
   display: flex;
-  border: 1px solid #323232
+  border: 1px solid #1e1916
 }
 section h2{
-  background-color: #323232;
+  background-color: #1e1916;
+  color:#e1d3ca;
   margin-bottom: 5px;
   
 }

@@ -6,6 +6,8 @@
 body{
   background-color: #1d1f1e;
   background-image: url(./coffee-cup-svgrepo-com.svg);
+  background-position: center;
+  background-repeat: no-repeat;
   color: #d4af37;
 }
 header{

@@ -4,7 +4,7 @@
   list-style: none;
 }
 body{
-  background-color: #090202;
+  background-color: #0b0404;
   background-image: url(./coffee-cup-svgrepo-com.svg);
   background-position: 490px;
   background-repeat: no-repeat;
@@ -18,7 +18,7 @@ header{
   padding: 6px;
   margin: auto;
   margin-bottom: 20px;
-  margin-top: 40px;
+  margin-top: 50px;
 }  
 header h1{
   margin-bottom: 2px;
